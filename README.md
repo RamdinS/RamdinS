@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @RamdinS
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Python Visualization
-- 💞️ I’m looking to collaborate on Data Analytics
+- 👋 Hi, I’m @Saurabh Ramdin
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning NLP/DL
+- 💞️ I’m looking to collaborate on Data Analytics/Data Science
 - 📫 How to reach me https://www.linkedin.com/in/saurabh-ramdin-profile/
 
 <!---
